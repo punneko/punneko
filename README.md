@@ -20,6 +20,6 @@ on the way...
 ## 📂 Featured Projects:
 on the way...
 
-## 📚 Learning Goals:
+
 
 
