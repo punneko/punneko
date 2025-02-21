@@ -4,7 +4,7 @@
 on the way...
 
 ## 🛠️ Technologies & Tools I'm learning:
-- Programming Languages: Python, SQL, Java
+- Programming Languages: Python
 - Data Science Libraries: Pandas, NumPy, scikit-learn, nltk
 - Visualization Tools: Matplotlib, Seaborn
 - Database Technologies: MySQL
